@@ -19,7 +19,6 @@ Generated QR codes are automatically saved as `qrcode.png` in your project folde
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/jatinn2512/qr-code-generator.git
-cd qr-code-generator
 ```
 
 ### 2️⃣ (Optional) Create virtual environment
